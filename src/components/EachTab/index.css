@@ -1,0 +1,30 @@
+.each-tab {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.button-fill {
+  color: #ffffff;
+  font-family: 'roboto';
+  font-size: 13px;
+  background-color: #db1c48;
+  border: none;
+  border-radius: 15px;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.button-outline {
+  color: #db1c48;
+  font-family: 'roboto';
+  font-size: 13px;
+  background-color: #ffffff;
+  border: 1px solid #db1c48;
+  border-radius: 15px;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+}
